@@ -1,0 +1,12 @@
+table{
+    margin-left: 300px;
+    
+}
+
+table thead{
+    border: solid 2px;
+}
+
+table tbody{
+    border: solid 1px;
+}
